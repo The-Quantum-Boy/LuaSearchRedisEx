@@ -1,0 +1,222 @@
+ [
+  {
+    "schemeCode": "",
+    "stateName": "Delhi",
+    "internalOrdNo": "1156176873803448320",
+    "dealerId": "U3873",
+    "marketCode": "GMDC",
+    "ordSide": "S",
+    "commodityCode": "SCRAP1",
+    "contractCode": "GMDCLOT",
+    "auctionType": "E"
+  },
+  {
+    "schemeCode": "",
+    "stateName": "Delhi",
+    "internalOrdNo": "1156176872226390016",
+    "dealerId": "U3873",
+    "marketCode": "GMDC",
+    "ordSide": "S",
+    "commodityCode": "SCRAP2",
+    "contractCode": "GMDCLOT",
+    "auctionType": "E"
+  },
+  {
+    "schemeCode": "",
+    "stateName": "Delhi",
+    "internalOrdNo": "1156176873270771712",
+    "dealerId": "U3873",
+    "marketCode": "GMDC",
+    "ordSide": "S",
+    "commodityCode": "SCRAP3",
+    "contractCode": "GMDCLOT",
+    "auctionType": "E"
+  },
+  {
+    "schemeCode": "",
+    "stateName": "Delhi",
+    "internalOrdNo": "1156176874059300864",
+    "dealerId": "U3873",
+    "marketCode": "GMDC",
+    "ordSide": "S",
+    "commodityCode": "SCRAP4",
+    "contractCode": "GMDCLOT",
+    "auctionType": "E"
+  },
+  {
+    "schemeCode": "",
+    "stateName": "Delhi",
+    "internalOrdNo": "1156176872989753344",
+    "dealerId": "U3873",
+    "marketCode": "GMDC",
+    "ordSide": "S",
+    "commodityCode": "SCRAP5",
+    "contractCode": "GMDCLOT",
+    "auctionType": "E"
+  },
+  {
+    "schemeCode": "",
+    "stateName": "Delhi",
+    "internalOrdNo": "1156176872272527360",
+    "dealerId": "U3873",
+    "marketCode": "GMDC",
+    "ordSide": "S",
+    "commodityCode": "SCRAP6",
+    "contractCode": "GMDCLOT",
+    "auctionType": "E"
+  },
+  {
+    "schemeCode": "",
+    "stateName": "Delhi",
+    "internalOrdNo": "1156176873396600832",
+    "dealerId": "U3873",
+    "marketCode": "GMDC",
+    "ordSide": "S",
+    "commodityCode": "SCRAP7",
+    "contractCode": "GMDCLOT",
+    "auctionType": "E"
+  },
+  {
+    "schemeCode": "",
+    "stateName": "Delhi",
+    "internalOrdNo": "1156176872205418496",
+    "dealerId": "U3873",
+    "marketCode": "GMDC",
+    "ordSide": "S",
+    "commodityCode": "SCRAP8",
+    "contractCode": "GMDCLOT",
+    "auctionType": "E"
+  },
+  {
+    "schemeCode": "",
+    "stateName": "Delhi",
+    "internalOrdNo": "1156176873702785024",
+    "dealerId": "U3873",
+    "marketCode": "GMDC",
+    "ordSide": "S",
+    "commodityCode": "SCRAP9",
+    "contractCode": "GMDCLOT",
+    "auctionType": "E"
+  },
+  {
+    "schemeCode": "",
+    "stateName": "Delhi",
+    "internalOrdNo": "1156176872373190656",
+    "dealerId": "U3873",
+    "marketCode": "GMDC",
+    "ordSide": "S",
+    "commodityCode": "SCRAP10",
+    "contractCode": "GMDCLOT",
+    "auctionType": "E"
+  },
+  {
+    "schemeCode": "",
+    "stateName": "Delhi",
+    "internalOrdNo": "1156176872201224192",
+    "dealerId": "U3873",
+    "marketCode": "GMDC",
+    "ordSide": "S",
+    "commodityCode": "SCRAP11",
+    "contractCode": "GMDCLOT",
+    "auctionType": "E"
+  },
+  {
+    "schemeCode": "",
+    "stateName": "Delhi",
+    "internalOrdNo": "1156176872801009664",
+    "dealerId": "U3873",
+    "marketCode": "GMDC",
+    "ordSide": "S",
+    "commodityCode": "SCRAP12",
+    "contractCode": "GMDCLOT",
+    "auctionType": "E"
+  },
+  {
+    "schemeCode": "",
+    "stateName": "Delhi",
+    "internalOrdNo": "1156176872184446978",
+    "dealerId": "U3873",
+    "marketCode": "GMDC",
+    "ordSide": "S",
+    "commodityCode": "SCRAP13",
+    "contractCode": "GMDCLOT",
+    "auctionType": "E"
+  },
+  {
+    "schemeCode": "",
+    "stateName": "Delhi",
+    "internalOrdNo": "1156176873144942592",
+    "dealerId": "U3873",
+    "marketCode": "GMDC",
+    "ordSide": "S",
+    "commodityCode": "SCRAP14",
+    "contractCode": "GMDCLOT",
+    "auctionType": "E"
+  },
+  {
+    "schemeCode": "",
+    "stateName": "Delhi",
+    "internalOrdNo": "1156176872490631168",
+    "dealerId": "U3873",
+    "marketCode": "GMDC",
+    "ordSide": "S",
+    "commodityCode": "SCRAP15",
+    "contractCode": "GMDCLOT",
+    "auctionType": "E"
+  },
+  {
+    "schemeCode": "",
+    "stateName": "Delhi",
+    "internalOrdNo": "1156176873551790080",
+    "dealerId": "U3873",
+    "marketCode": "GMDC",
+    "ordSide": "S",
+    "commodityCode": "SCRAP16",
+    "contractCode": "GMDCLOT",
+    "auctionType": "E"
+  },
+  {
+    "schemeCode": "",
+    "stateName": "Delhi",
+    "internalOrdNo": "1156176872184446976",
+    "dealerId": "U3873",
+    "marketCode": "GMDC",
+    "ordSide": "S",
+    "commodityCode": "SCRAP17",
+    "contractCode": "GMDCLOT",
+    "auctionType": "E"
+  },
+  {
+    "schemeCode": "",
+    "stateName": "Delhi",
+    "internalOrdNo": "1156176872629043200",
+    "dealerId": "U3873",
+    "marketCode": "GMDC",
+    "ordSide": "S",
+    "commodityCode": "SCRAP18",
+    "contractCode": "GMDCLOT",
+    "auctionType": "E"
+  },
+  {
+    "schemeCode": "",
+    "stateName": "Delhi",
+    "internalOrdNo": "1156176873920888832",
+    "dealerId": "U3873",
+    "marketCode": "GMDC",
+    "ordSide": "S",
+    "commodityCode": "SCRAP19",
+    "contractCode": "GMDCLOT",
+    "auctionType": "E"
+  },
+  {
+    "schemeCode": "",
+    "stateName": "Delhi",
+    "internalOrdNo": "1156176872188641280",
+    "dealerId": "U3873",
+    "marketCode": "ram",
+    "ordSide": "S",
+    "commodityCode": "SCRAP20",
+    "contractCode": "GMDCLOT",
+    "auctionType": "E"
+  }
+]
